@@ -10,8 +10,8 @@ Welcome to the official SafeGuard repository for maintaining our **scam link** a
 
 This repo contains two JSON files updated **weekly**:
 
-- `scam_links.json` – A collection of known scam/suspicious URLs.
-- `scammer_ids.json` – A list of Discord user IDs reported or confirmed as scammers.
+- `scam-domains.json` – A collection of known scam/suspicious URLs.
+- `scammers.json` – A list of Discord user IDs reported or confirmed as scammers.
 
 These files are used by the **SafeGuard Discord bot** to protect servers in real-time.
 
